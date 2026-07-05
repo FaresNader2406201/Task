@@ -25,5 +25,5 @@ void handleInput()
         {
             movePieceRight();
         }
-    } dddddd
+    } 
 }
