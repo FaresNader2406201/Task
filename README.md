@@ -1,3 +1,14 @@
+
+lazem azbot fel readme eny 2a2oll lel ragel eny lw 3ayz ye run eh eltoro2 elmmknye run beeha zy masalan en ye run be estedam el command beta3 el g++ we lw not reconganized mafrood yenazelo zay we bardo a3redlo eltoto2 eltanya ezay eno ye run bardo zy el makefile we we we .....
+
+
+
+
+
+
+
+
+
 # Console Tetris Game (C++)
 
 A simple **console-based Tetris game** developed in **C++**. The project demonstrates the use of modular programming, basic game development concepts, collision detection, and console rendering.
